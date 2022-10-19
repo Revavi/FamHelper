@@ -1,2 +1,2 @@
 # FamHelper
-Family Helper for SAMP Arizona RP
+Private FamilyHelper for SAMP Arizona RP
